@@ -1,0 +1,74 @@
+@import url(<link href='https://fonts.googleapis.com/css?family=Amatic SC' rel='stylesheet'>);
+
+
+* {
+	box-sizing: border-box;
+}
+
+.logo {
+	float: left;
+	margin-left: 5em;
+	margin-top: .7em;
+}
+
+body {
+	margin: 0;
+	font-family: 'Amatic SC', sans-serif;
+	text-align: center;
+	background-color: #008080 
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+
+/* header
+========= */
+
+header {
+	margin-top: 1em;
+}
+
+nav ul {
+	text-align: right;
+	margin: 0;
+	margin-right: 3em;
+	margin-bottom: 1.2em;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin: 1em;
+}
+
+nav a {
+	font-weight: 900;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 2.5rem;
+	padding: .25em;
+	color: black;
+}
+
+nav a:hover,
+nav a:focus {
+	color: white;
+}
+
+
+
+
+
+/* home hero
+========= */
+
+.home-hero {
+	background-color: #663399;
+	padding: 5em 0;
+}
