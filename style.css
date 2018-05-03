@@ -67,7 +67,7 @@ p {
 
 .button {
 	display: inline-block;
-	font-size: 1.75rem;
+	font-size: 1.9rem;
 	text-decoration: none;
 	text-transform: uppercase;
 	border-width: 2px;
@@ -97,7 +97,7 @@ nav ul {
 	text-align: right;
 	margin: 0;
 	margin-right: 3em;
-	margin-bottom: .2em;
+	margin-bottom: 0em;
 	padding: 0;
 	list-style: none;
 }
@@ -136,7 +136,7 @@ nav a:focus {
 	color: #008080;
 	padding-top: .5em;
 	padding-bottom:  4em;
-	margin-top: 7em;
+	margin-top: 5.5em;
 	margin-left: 3em;
 	margin-right: 3em;
 	outline: 2px solid #008080;
